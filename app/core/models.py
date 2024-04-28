@@ -1,3 +1,4 @@
-from django.db import models
+# type: ignore  from django.db import admin
 
-# Create your models here.
+
+# Register your models here.
